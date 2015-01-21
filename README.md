@@ -1,0 +1,2 @@
+# instruction_for_installing_latex_on_eclipse
+This instruction is prepared for someone who needs to produce high quality documents using \LaTeX. He knows how to install Microsoft word on windows.  He has access to internet and knows how to use browser.  He knows how to download files from internet and how to run them. He must have an administrative access to the computer he is installing TeXlipse onto. Computer literacy in general is needed. 
